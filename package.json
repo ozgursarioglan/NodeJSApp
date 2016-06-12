@@ -1,0 +1,15 @@
+{
+  "name": "node-js-app",
+  "version": "0.0.0",
+  "description": "NodeJsApp",
+  "main": "app.js",
+  "author": {
+    "name": "ozgur",
+    "email": ""
+  },
+  "dependencies": {
+    "express": "3.4.4",
+    "jade": "*",
+    "stylus": "*"
+  }
+}
